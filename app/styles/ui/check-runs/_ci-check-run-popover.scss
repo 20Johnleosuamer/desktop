@@ -8,6 +8,11 @@
     }
   }
 
+  .ci-check-run-list-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
   .ci-check-run-list-header {
     background-color: var(--box-alt-background-color);
     border-bottom: var(--base-border);
